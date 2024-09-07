@@ -5,6 +5,11 @@
 > [Yunhui Guo, Youren Zhang, Yubei Chen, Stella X Yu]         
 > CVPR 2024
 
+<p float="left">
+<img src="https://github.com/yunhuiguo/HACK/blob/main/Figures/sample_face_res.png"  width="300" height="300">
+ <img src="https://github.com/yunhuiguo/HACK/blob/main/Figures/face_evolve_8_per_r.png"  width="300" height="300">
+</p>
+
 
 ## HACK
 
